@@ -1,7 +1,7 @@
 package projecttest;
 
 public class classj {
-//dddffffffdzzjjjfffff
+//dddffffffdzzjjjccffffffff
 	 public static void main(String[] args) {
 	 int i = 0;
 	    String s = ""+i;
